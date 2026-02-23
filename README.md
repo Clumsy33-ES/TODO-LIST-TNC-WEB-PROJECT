@@ -47,7 +47,7 @@ Projeyi bilgisayarınızda çalıştırmak için:
 
 ## Canlı Yayın
 
-(Netlify linkini buraya ekleyebilirsiniz)
+(https://699c544686eb295d2ef22feb--benevolent-moonbeam-293e47.netlify.app/)
 
 ---
 
